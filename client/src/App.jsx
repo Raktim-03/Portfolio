@@ -1,3 +1,4 @@
+
 import { personalInfo, projects, skills, experience } from "./data/portfoliodata";
 
 import { FaReact, FaNodeJs, FaPython, FaHtml5, FaCss3Alt, FaGitAlt } from "react-icons/fa";
