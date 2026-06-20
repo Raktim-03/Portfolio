@@ -1,8 +1,8 @@
 
 import { personalInfo, projects, skills, experience } from "./data/portfoliodata";
 
-import { FaReact, FaNodeJs, FaPython, FaHtml5, FaCss3Alt, FaGitAlt } from "react-icons/fa";
-import { SiMongodb, SiExpress, SiCplusplus, SiC, SiGithub } from "react-icons/si";
+import { FaReact, FaNodeJs, FaPython, FaHtml5, FaCss3Alt, FaGitAlt, FaDocker } from "react-icons/fa";
+import { SiMongodb, SiExpress, SiCplusplus, SiC, SiGithub , SiTailwindcss, SiPostgresql} from "react-icons/si";
 
 import emailjs from "@emailjs/browser";
 import { useRef } from "react";

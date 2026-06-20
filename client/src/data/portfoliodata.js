@@ -37,6 +37,14 @@ export const projects = [
     stack: ["Python", "FastAPI", "NLTK", "JavaScript"],
     github: "https://github.com/Raktim-03/IOCL_Chatbot.git"
   },
+
+  {
+    title: "MentoraX - An Mentorship Platform for School/College Students",
+    description:
+      "Built a full-stack mentoring platform connecting mentors and students.",
+    stack: ["PostgreSQL", "Express", "React", "Node"],
+    github: "https://github.com/Raktim-03/MentoraX-Online-Mentoring-System.git",
+  },
   {
     title: "K-Means Image Segmentation Web App",
     description:
@@ -46,30 +54,30 @@ export const projects = [
     live: "https://kmeans-image-segmentation-app.streamlit.app/"
   },
   {
-    title: "Attendance Manager Web App",
-    description:
-      "Created a responsive attendance tracker with real-time calculations using localStorage.",
-    stack: ["JavaScript", "HTML", "CSS","LocalStorage"],
-    github: "https://github.com/Raktim-03/Attendance-Manager.git",
-    live: "https://raktim-03.github.io/Attendance-Manager/"
-  },
-  {
       title: "JPMC SDE Job Simulation", 
     description:
       "Built a Spring Boot microservice integrating Apache Kafka for real-time transaction processing.",
     stack: ["Java", "SpringBoot", "Kafka","Maven","H2"], 
     github: "https://github.com/Raktim-03/forage-midas.git",
  
-  }
+  },
+    {
+    title: "Artisano : Cafe & Bistro",
+    description:
+      "A modern and clean responsive Cafe website made using MERN Stack fro modern day uses.",
+    stack: ["React", "TailwindsCSS", "Express", "Node"],
+    github: "https://github.com/Raktim-03/Artisano-Cafe-Bistro.git",
+    live: "https://artisano-cafe-bistro-six.vercel.app/"
+  },
 
 ];
 
 export const skills = {
   languages: ["C", "C++", "Python", "JavaScript"],
-  frontend: ["React", "HTML5", "CSS3"],
+  frontend: ["React","TailwindCSS", "HTML5", "CSS3"],
   backend: ["Node.js", "Express"],
-  databases: ["MongoDB", "MySQL"],
-  tools: ["Git", "GitHub"],
+  databases: ["MongoDB", "MySQL", "PostgreSQL"],
+  tools: ["Git", "GitHub", "Docker"],
   ai_ml: ["NumPy", "Matplotlib", "NLP (NLTK)"],
   others: ["Flutter", "Streamlit",]
 };
