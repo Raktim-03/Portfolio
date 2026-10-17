@@ -11,7 +11,7 @@ export const personalInfo = {
       degree: "B.Tech Computer Science and Engineering",
       institution: "Tezpur University",
       year: "2023 - Present",
-      cgpa: "7.04 (up to 5th semester)"
+      cgpa: "7.15 (up to 7th semester)"
       
     },
     {
